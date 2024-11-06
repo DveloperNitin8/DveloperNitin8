@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DveloperNitin8
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning vit
+- 🌱 I’m currently learning in vit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
