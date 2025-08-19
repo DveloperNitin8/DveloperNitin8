@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DveloperNitin8
-- 👀 I’m interested in backend web development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning in vit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
